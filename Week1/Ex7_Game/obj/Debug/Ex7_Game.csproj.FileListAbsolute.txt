@@ -1,0 +1,7 @@
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex7_Game\obj\Debug\Ex7_Game.csprojAssemblyReference.cache
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex7_Game\obj\Debug\Ex7_Game.csproj.CoreCompileInputs.cache
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex7_Game\bin\Debug\Ex7_Game.exe.config
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex7_Game\bin\Debug\Ex7_Game.exe
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex7_Game\bin\Debug\Ex7_Game.pdb
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex7_Game\obj\Debug\Ex7_Game.exe
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex7_Game\obj\Debug\Ex7_Game.pdb

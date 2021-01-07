@@ -1,0 +1,6 @@
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex3_Sum1perN\bin\Debug\Ex3_Sum1perN.exe.config
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex3_Sum1perN\bin\Debug\Ex3_Sum1perN.exe
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex3_Sum1perN\bin\Debug\Ex3_Sum1perN.pdb
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex3_Sum1perN\obj\Debug\Ex3_Sum1perN.csproj.CoreCompileInputs.cache
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex3_Sum1perN\obj\Debug\Ex3_Sum1perN.exe
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex3_Sum1perN\obj\Debug\Ex3_Sum1perN.pdb

@@ -1,0 +1,6 @@
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex2_LeapYear\bin\Debug\Ex2_LeapYear.exe.config
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex2_LeapYear\bin\Debug\Ex2_LeapYear.exe
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex2_LeapYear\bin\Debug\Ex2_LeapYear.pdb
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex2_LeapYear\obj\Debug\Ex1_LeapYear.csproj.CoreCompileInputs.cache
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex2_LeapYear\obj\Debug\Ex2_LeapYear.exe
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex2_LeapYear\obj\Debug\Ex2_LeapYear.pdb

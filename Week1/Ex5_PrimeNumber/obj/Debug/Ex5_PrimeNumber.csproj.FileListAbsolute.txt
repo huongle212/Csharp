@@ -1,0 +1,7 @@
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex5_PrimeNumber\bin\Debug\Ex5_PrimeNumber.exe.config
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex5_PrimeNumber\bin\Debug\Ex5_PrimeNumber.exe
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex5_PrimeNumber\bin\Debug\Ex5_PrimeNumber.pdb
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex5_PrimeNumber\obj\Debug\Ex5_PrimeNumber.csproj.CoreCompileInputs.cache
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex5_PrimeNumber\obj\Debug\Ex5_PrimeNumber.exe
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex5_PrimeNumber\obj\Debug\Ex5_PrimeNumber.pdb
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex5_PrimeNumber\obj\Debug\Ex5_PrimeNumber.csprojAssemblyReference.cache

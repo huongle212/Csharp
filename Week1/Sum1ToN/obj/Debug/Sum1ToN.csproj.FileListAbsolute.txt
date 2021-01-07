@@ -1,0 +1,7 @@
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Sum1ToN\bin\Debug\Sum1ToN.exe.config
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Sum1ToN\bin\Debug\Sum1ToN.exe
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Sum1ToN\bin\Debug\Sum1ToN.pdb
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Sum1ToN\obj\Debug\Sum1ToN.csprojAssemblyReference.cache
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Sum1ToN\obj\Debug\Sum1ToN.csproj.CoreCompileInputs.cache
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Sum1ToN\obj\Debug\Sum1ToN.exe
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Sum1ToN\obj\Debug\Sum1ToN.pdb

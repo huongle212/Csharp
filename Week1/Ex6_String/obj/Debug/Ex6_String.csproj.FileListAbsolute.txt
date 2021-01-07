@@ -1,0 +1,6 @@
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex6_String\bin\Debug\Ex6_String.exe.config
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex6_String\bin\Debug\Ex6_String.exe
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex6_String\bin\Debug\Ex6_String.pdb
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex6_String\obj\Debug\Ex6_String.csproj.CoreCompileInputs.cache
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex6_String\obj\Debug\Ex6_String.exe
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex6_String\obj\Debug\Ex6_String.pdb

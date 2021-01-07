@@ -1,0 +1,6 @@
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex4_Compute\bin\Debug\Ex4_Compute.exe.config
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex4_Compute\bin\Debug\Ex4_Compute.exe
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex4_Compute\bin\Debug\Ex4_Compute.pdb
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex4_Compute\obj\Debug\Ex3_Compute.csproj.CoreCompileInputs.cache
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex4_Compute\obj\Debug\Ex4_Compute.exe
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex4_Compute\obj\Debug\Ex4_Compute.pdb

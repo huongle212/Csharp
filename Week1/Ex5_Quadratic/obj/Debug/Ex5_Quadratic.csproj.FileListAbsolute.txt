@@ -1,0 +1,7 @@
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex5_Quadratic\bin\Debug\Ex5_Quadratic.exe.config
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex5_Quadratic\bin\Debug\Ex5_Quadratic.exe
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex5_Quadratic\bin\Debug\Ex5_Quadratic.pdb
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex5_Quadratic\obj\Debug\Ex5_Quadratic.csprojAssemblyReference.cache
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex5_Quadratic\obj\Debug\Ex5_Quadratic.csproj.CoreCompileInputs.cache
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex5_Quadratic\obj\Debug\Ex5_Quadratic.exe
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week1\Ex5_Quadratic\obj\Debug\Ex5_Quadratic.pdb
