@@ -1,0 +1,7 @@
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab2_More\PRN292_Lab2M_3+4_Account\bin\Debug\PRN292_Lab2M_3+4_Account.exe.config
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab2_More\PRN292_Lab2M_3+4_Account\bin\Debug\PRN292_Lab2M_3+4_Account.exe
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab2_More\PRN292_Lab2M_3+4_Account\bin\Debug\PRN292_Lab2M_3+4_Account.pdb
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab2_More\PRN292_Lab2M_3+4_Account\obj\Debug\PRN292_Lab2M_3+4_Account.csprojAssemblyReference.cache
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab2_More\PRN292_Lab2M_3+4_Account\obj\Debug\PRN292_Lab2M_3+4_Account.csproj.CoreCompileInputs.cache
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab2_More\PRN292_Lab2M_3+4_Account\obj\Debug\PRN292_Lab2M_3+4_Account.exe
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab2_More\PRN292_Lab2M_3+4_Account\obj\Debug\PRN292_Lab2M_3+4_Account.pdb

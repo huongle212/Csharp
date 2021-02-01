@@ -1,0 +1,7 @@
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week2_Class\Student\bin\Debug\Student.exe.config
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week2_Class\Student\bin\Debug\Student.exe
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week2_Class\Student\bin\Debug\Student.pdb
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week2_Class\Student\obj\Debug\Student.csprojAssemblyReference.cache
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week2_Class\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week2_Class\Student\obj\Debug\Student.exe
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week2_Class\Student\obj\Debug\Student.pdb

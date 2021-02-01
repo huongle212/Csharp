@@ -1,0 +1,7 @@
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab1_More\PRN292_Lab1M_1_Student\bin\Debug\PRN292_Lab1M_1_Student.exe.config
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab1_More\PRN292_Lab1M_1_Student\bin\Debug\PRN292_Lab1M_1_Student.exe
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab1_More\PRN292_Lab1M_1_Student\bin\Debug\PRN292_Lab1M_1_Student.pdb
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab1_More\PRN292_Lab1M_1_Student\obj\Debug\PRN292_Lab1M_1_Student.csprojAssemblyReference.cache
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab1_More\PRN292_Lab1M_1_Student\obj\Debug\PRN292_Lab1M_1_Student.csproj.CoreCompileInputs.cache
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab1_More\PRN292_Lab1M_1_Student\obj\Debug\PRN292_Lab1M_1_Student.exe
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab1_More\PRN292_Lab1M_1_Student\obj\Debug\PRN292_Lab1M_1_Student.pdb

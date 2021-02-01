@@ -1,0 +1,7 @@
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week3_Class\Ex1_\bin\Debug\Ex1_.exe.config
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week3_Class\Ex1_\bin\Debug\Ex1_.exe
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week3_Class\Ex1_\bin\Debug\Ex1_.pdb
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week3_Class\Ex1_\obj\Debug\Ex1_.csprojAssemblyReference.cache
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week3_Class\Ex1_\obj\Debug\Ex1_.csproj.CoreCompileInputs.cache
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week3_Class\Ex1_\obj\Debug\Ex1_.exe
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week3_Class\Ex1_\obj\Debug\Ex1_.pdb

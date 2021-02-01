@@ -1,0 +1,6 @@
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\MyBookLibrary\MyBookLibrary\obj\Debug\MyBookLibrary.csprojAssemblyReference.cache
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\MyBookLibrary\MyBookLibrary\obj\Debug\MyBookLibrary.csproj.CoreCompileInputs.cache
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\MyBookLibrary\MyBookLibrary\bin\Debug\MyBookLibrary.dll
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\MyBookLibrary\MyBookLibrary\bin\Debug\MyBookLibrary.pdb
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\MyBookLibrary\MyBookLibrary\obj\Debug\MyBookLibrary.dll
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\MyBookLibrary\MyBookLibrary\obj\Debug\MyBookLibrary.pdb

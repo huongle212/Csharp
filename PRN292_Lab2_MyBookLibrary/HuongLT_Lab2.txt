@@ -1,0 +1,419 @@
+// assembly
+using System;
+using System.Collections;
+using System.Collections.Generic;
+
+namespace MyBookLibrary
+{
+    class Inputer
+    {
+        public static int InputInt(string s)
+        {
+            while (true)
+            {
+                try
+                {
+                    Console.Write(s);
+                    int rs = int.Parse(Console.ReadLine());
+                    return rs;
+                }
+                catch (Exception ex)
+                {
+                    Console.Write("Invalid input, try again! Please input an integer. \n");
+                }
+            }
+        }
+
+        public static int InputInt(string s, int min, int max)
+        {
+            while (true)
+            {
+                try
+                {
+                    Console.Write(s);
+                    int rs = int.Parse(Console.ReadLine());
+                    if (rs < min || rs > max)
+                    {
+                        Console.WriteLine($"Input out of range [{min},{max}]");
+                        throw new Exception("Out of range");
+                    }
+                    return rs;
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine($"Please input an integer in range [{min},{max}], try again!");
+                }
+            }
+        }
+
+        public static double InputDouble(string s)
+        {
+            while (true)
+            {
+                try
+                {
+                    Console.Write(s);
+                    double rs = Double.Parse(Console.ReadLine());
+                    return rs;
+                }
+                catch (Exception ex)
+                {
+                    Console.Write("Invalid input, try again!Please input a number. \n" + ex);
+                }
+            }
+        }
+
+        public static double InputDouble(string s,double min)
+        {
+            while (true)
+            {
+                try
+                {
+                    Console.Write(s);
+                    double rs = Double.Parse(Console.ReadLine());
+                    if (rs < min) throw new Exception();
+                    return rs;
+                }
+                catch (Exception ex)
+                {
+                    Console.Write($"Invalid input, try again!Please input a number greater than {min}. \n");
+                }
+            }
+        }
+
+        public static string InputString(string s)
+        {
+            while (true)
+            {
+                try
+                {
+                    Console.Write(s);
+                    string rs = Console.ReadLine().Trim();
+                    if (rs.Length == 0) throw new Exception();
+                    return rs;
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine("Can not be empty, try again!");
+                }
+            }
+        }
+    }
+
+    interface IBook
+    {
+        string this[int index] { get;set; }
+        string id { get; set; }
+        string title { get; set; }
+        string publisher { get; set; }
+        double price { get; set; }
+    }
+
+    class Book : IBook, IComparable
+    {
+        public string id;
+        public string title;
+        public string publisher;
+        public double price;
+        public ArrayList Chapter = new ArrayList();
+
+        string IBook.id { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        string IBook.title { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        string IBook.publisher { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        double IBook.price { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+
+        public Book() { }
+
+        public Book(string id, string title, string publisher, double price, ArrayList chapter)
+        {
+            this.id = id;
+            this.title = title;
+            this.publisher = publisher;
+            this.price = price;
+            this.Chapter = chapter;
+        }
+
+        public string this[int index] //chuong sach
+        {
+            get
+            {
+                if (index >= 0 && index < Chapter.Count)
+                    return (string)Chapter[index];
+                else
+                    throw new IndexOutOfRangeException();
+            }
+            set
+            {
+                if (index >= 0 && index < Chapter.Count)
+                    Chapter[index] = value;
+                else if (index == Chapter.Count)
+                    Chapter.Add(value);
+                else
+                    throw new IndexOutOfRangeException();
+            }
+        }
+
+        public void Show()
+        {
+            Console.WriteLine("________________________________________________________________________________");
+            Console.WriteLine($"Book {id} [Name = {title}, Publisher = {publisher}, Price = {price}]");
+            Console.WriteLine("Content: ");
+            for (int i = 0; i < Chapter.Count; i++)
+            {
+                Console.WriteLine($"   Chapter {(i + 1)}: {Chapter[i]}");
+            }
+            Console.WriteLine("________________________________________________________________________________");
+        }
+
+        public void Input()
+        {
+            id = Inputer.InputString("Enter book id: ");
+            title = Inputer.InputString("Enter title: ");
+            publisher = Inputer.InputString("Enter publisher: ");
+            price = Inputer.InputDouble("Enter price: ", 0);
+            Console.WriteLine("Input content (finish with empty string)");
+            string str;
+            int i = 1;
+            do
+            {
+                Console.Write($"Chapter {(i)}: ");
+                str = Console.ReadLine();
+                if (str.Length > 0)
+                {
+                    Chapter.Add(str);
+                    i++;
+                }
+            } while (str.Length > 0);
+            Console.WriteLine("________________________________________");
+        }
+
+        public void UpdateInfor()
+        {
+            title = Inputer.InputString("Enter new title: ");
+            publisher = Inputer.InputString("Enter new publisher: ");
+            price = Inputer.InputDouble("Enter new price: ", 0);
+            Chapter = new ArrayList();
+            Console.WriteLine("Input content (finish with empty string)");
+            string str;
+            int i = 1;
+            do
+            {
+                Console.Write($"Chapter {(i)}: ");
+                str = Console.ReadLine();
+                if (str.Length > 0)
+                {
+                    Chapter.Add(str);
+                    i++;
+                }
+            } while (str.Length > 0);
+            Console.WriteLine("________________________________________");
+        }
+
+        public int CompareTo(Object other)
+        {
+            if (other == null) throw new NotImplementedException();
+            Book b = (Book)other;
+            return id.CompareTo(b.id);
+        }
+    }
+
+    class SortByPrice:Comparer<Book>
+    {
+        public override int Compare(Book x, Book y)
+        {
+            return x.price.CompareTo(y.price);
+        }
+    }
+    
+    class SortByPublisher:Comparer<Book>
+    {
+        public override int Compare(Book x, Book y)
+        {
+            return x.publisher.CompareTo(y.publisher);
+        }
+    }
+
+
+    class SortByTitle : Comparer<Book>
+    {
+        public override int Compare(Book x, Book y)
+        {
+            return x.title.CompareTo(y.title);
+        }
+    } 
+//class library
+    public class BookLibrary
+    {
+        private ArrayList list = new ArrayList();
+
+        public int checkBookIdExist(string id)
+        {
+            for (int i = 0; i < list.Count; i++)
+            {
+                if ((id.ToLower()).Equals((list[i] as Book).id.ToLower())) return i;
+            }
+            return -1;
+        }
+
+        public void AddBook()
+        {
+            Book b = new Book();
+            b.Input();
+            list.Add(b);
+        }
+
+        public void ShowList()
+        {
+            if (list.Count == 0)
+            {
+                Console.WriteLine("Empty list!");
+            }
+            foreach (Book b in list)
+                b.Show();
+            Console.ReadLine();
+        }
+
+        public void InputList()
+        {
+            int n = Inputer.InputInt("Number of books in list: ");
+            for (int i = 1; i <= n; i++)
+            {
+                Console.WriteLine($"Input book {i}");
+                AddBook();
+            }
+            Console.WriteLine("Add book successful.");
+        }
+
+        public void UpdateBook()
+        {
+            string id = Inputer.InputString("Enter book's id you want to update: ");
+            int index = checkBookIdExist(id);
+            if (index == -1)
+            {
+                Console.WriteLine("This book's id doesn't exist.");
+            }
+            else
+            {
+                Book b = list[index] as Book;
+                b.UpdateInfor();
+                list[index] = b;
+                Console.WriteLine("Update book successful.");
+            }
+
+        }
+
+        public void DeleteBook()
+        {
+            string id = Inputer.InputString("Enter book's id you want to delete: ");
+            int index = checkBookIdExist(id);
+            if (index == -1)
+            {
+                Console.WriteLine("This book's id doesn't exist.");
+            }
+            else
+            {
+                list.RemoveAt(index);
+                Console.WriteLine("Delete book successful.");
+            }
+
+        }
+
+        public void SortBook()
+        {
+            int choice = Inputer.InputInt("Sort by (1-ID, 2-Title, 3-Publisher, Other-Price): ", 1, 4);
+            switch (choice)
+            {
+                case 1:
+                    list.Sort();
+                    break;
+                case 2:
+                    list.Sort(new SortByTitle());
+                    break;
+                case 3:
+                    list.Sort(new SortByPublisher());
+                    break;
+                default:
+                    list.Sort(new SortByPrice());
+                    break;
+            }
+        }
+    } 
+}
+
+
+// User library
+using MyBookLibrary;
+using System;
+
+namespace PRN292_Lab2
+{
+    class Program
+    {
+        public static int InputInt(string s, int min, int max)
+        {
+            while (true)
+            {
+                try
+                {
+                    Console.Write(s);
+                    int rs = int.Parse(Console.ReadLine());
+                    if (rs < min || rs > max)
+                    {
+                        Console.WriteLine($"Input out of range [{min},{max}]");
+                        throw new Exception("Out of range");
+                    }
+                    return rs;
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine($"Please input an integer in range [{min},{max}], try again!");
+                }
+            }
+        }
+
+        static void Main(string[] args)
+        {
+            BookLibrary bookLibrary = new BookLibrary();
+            while (true)
+            {
+                Console.WriteLine("======== BOOK MANAGER ========");
+                Console.WriteLine("1.Add book");
+                Console.WriteLine("2.Update book");
+                Console.WriteLine("3.Delete book");
+                Console.WriteLine("4.List all book");
+                Console.WriteLine("5.Sort");
+                Console.WriteLine("6.Clear Console");
+                Console.WriteLine("7.EXIT");
+                Console.WriteLine("------------------------------");
+                int choice = InputInt("Select your choice: ", 1, 7);
+                switch (choice)
+                {
+                    case 1:
+                        bookLibrary.InputList();
+                        break;
+                    case 2:
+                        bookLibrary.UpdateBook();
+                        break;
+                    case 3:
+                        bookLibrary.DeleteBook();
+                        break;
+                    case 4:
+                        bookLibrary.ShowList();
+                        break;
+                    case 5:
+                        bookLibrary.SortBook();
+                        bookLibrary.ShowList();
+                        break;
+                    case 6:
+                        Console.Clear();
+                        Console.WriteLine("Press any key to continue!");
+                        Console.ReadLine();
+                        Console.Clear();
+                        break;
+                    case 7: return;
+                }
+            }
+        }
+    }
+}
+
