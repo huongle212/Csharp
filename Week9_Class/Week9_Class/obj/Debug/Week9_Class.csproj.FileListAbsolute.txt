@@ -1,0 +1,11 @@
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week9_Class\Week9_Class\bin\Debug\Week9_Class.exe.config
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week9_Class\Week9_Class\bin\Debug\Week9_Class.exe
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week9_Class\Week9_Class\bin\Debug\Week9_Class.pdb
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week9_Class\Week9_Class\obj\Debug\Week9_Class.csprojAssemblyReference.cache
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week9_Class\Week9_Class\obj\Debug\Week9_Class.Form1.resources
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week9_Class\Week9_Class\obj\Debug\Week9_Class.Properties.Resources.resources
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week9_Class\Week9_Class\obj\Debug\Week9_Class.csproj.GenerateResource.cache
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week9_Class\Week9_Class\obj\Debug\Week9_Class.csproj.CoreCompileInputs.cache
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week9_Class\Week9_Class\obj\Debug\Week9_Class.exe
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week9_Class\Week9_Class\obj\Debug\Week9_Class.pdb
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week9_Class\Week9_Class\obj\Debug\Week9_Class.Form2.resources

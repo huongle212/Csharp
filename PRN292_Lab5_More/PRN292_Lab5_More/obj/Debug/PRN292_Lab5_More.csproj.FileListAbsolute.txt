@@ -1,0 +1,11 @@
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab5_More\PRN292_Lab5_More\bin\Debug\PRN292_Lab5_More.exe.config
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab5_More\PRN292_Lab5_More\bin\Debug\PRN292_Lab5_More.exe
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab5_More\PRN292_Lab5_More\bin\Debug\PRN292_Lab5_More.pdb
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab5_More\PRN292_Lab5_More\obj\Debug\PRN292_Lab5_More.csprojAssemblyReference.cache
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab5_More\PRN292_Lab5_More\obj\Debug\PRN292_Lab5_More.Ex3_Nhanvien.resources
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab5_More\PRN292_Lab5_More\obj\Debug\PRN292_Lab5_More.Properties.Resources.resources
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab5_More\PRN292_Lab5_More\obj\Debug\PRN292_Lab5_More.csproj.GenerateResource.cache
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab5_More\PRN292_Lab5_More\obj\Debug\PRN292_Lab5_More.csproj.CoreCompileInputs.cache
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab5_More\PRN292_Lab5_More\obj\Debug\PRN292_Lab5_More.exe
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab5_More\PRN292_Lab5_More\obj\Debug\PRN292_Lab5_More.pdb
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab5_More\PRN292_Lab5_More\obj\Debug\PRN292_Lab5_More.Ex1_2_FastFood.resources

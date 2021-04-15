@@ -1,0 +1,10 @@
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab3_More\PRN292_Lab3M_2_GcdLcm\bin\Debug\PRN292_Lab3M_2_GcdLcm.exe.config
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab3_More\PRN292_Lab3M_2_GcdLcm\bin\Debug\PRN292_Lab3M_2_GcdLcm.exe
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab3_More\PRN292_Lab3M_2_GcdLcm\bin\Debug\PRN292_Lab3M_2_GcdLcm.pdb
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab3_More\PRN292_Lab3M_2_GcdLcm\obj\Debug\PRN292_Lab3M_2_GcdLcm.Properties.Resources.resources
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab3_More\PRN292_Lab3M_2_GcdLcm\obj\Debug\PRN292_Lab3M_2_GcdLcm.csproj.GenerateResource.cache
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab3_More\PRN292_Lab3M_2_GcdLcm\obj\Debug\PRN292_Lab3M_2_GcdLcm.csproj.CoreCompileInputs.cache
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab3_More\PRN292_Lab3M_2_GcdLcm\obj\Debug\PRN292_Lab3M_2_GcdLcm.exe
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab3_More\PRN292_Lab3M_2_GcdLcm\obj\Debug\PRN292_Lab3M_2_GcdLcm.pdb
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab3_More\PRN292_Lab3M_2_GcdLcm\obj\Debug\PRN292_Lab3M_2_GcdLcm.csprojAssemblyReference.cache
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab3_More\PRN292_Lab3M_2_GcdLcm\obj\Debug\PRN292_Lab3M_2_GcdLcm.GcdLcm.resources

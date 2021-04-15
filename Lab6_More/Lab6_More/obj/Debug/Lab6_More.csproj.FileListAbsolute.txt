@@ -1,0 +1,17 @@
+E:\fptu-cn-se\se-cn5\prn292\c#\Lab6_More\Lab6_More\bin\Debug\Lab6_More.exe.config
+E:\fptu-cn-se\se-cn5\prn292\c#\Lab6_More\Lab6_More\bin\Debug\Lab6_More.exe
+E:\fptu-cn-se\se-cn5\prn292\c#\Lab6_More\Lab6_More\bin\Debug\Lab6_More.pdb
+E:\fptu-cn-se\se-cn5\prn292\c#\Lab6_More\Lab6_More\obj\Debug\Lab6_More.csprojAssemblyReference.cache
+E:\fptu-cn-se\se-cn5\prn292\c#\Lab6_More\Lab6_More\obj\Debug\Lab6_More.Ex1_WindowsMedia.resources
+E:\fptu-cn-se\se-cn5\prn292\c#\Lab6_More\Lab6_More\obj\Debug\Lab6_More.Properties.Resources.resources
+E:\fptu-cn-se\se-cn5\prn292\c#\Lab6_More\Lab6_More\obj\Debug\Lab6_More.csproj.GenerateResource.cache
+E:\fptu-cn-se\se-cn5\prn292\c#\Lab6_More\Lab6_More\obj\Debug\Lab6_More.csproj.CoreCompileInputs.cache
+E:\fptu-cn-se\se-cn5\prn292\c#\Lab6_More\Lab6_More\obj\Debug\Lab6_More.exe
+E:\fptu-cn-se\se-cn5\prn292\c#\Lab6_More\Lab6_More\obj\Debug\Lab6_More.pdb
+E:\fptu-cn-se\se-cn5\prn292\c#\Lab6_More\Lab6_More\bin\Debug\Interop.WMPLib.dll
+E:\fptu-cn-se\se-cn5\prn292\c#\Lab6_More\Lab6_More\bin\Debug\AxInterop.WMPLib.dll
+E:\fptu-cn-se\se-cn5\prn292\c#\Lab6_More\Lab6_More\obj\Debug\Interop.WMPLib.dll
+E:\fptu-cn-se\se-cn5\prn292\c#\Lab6_More\Lab6_More\obj\Debug\AxInterop.WMPLib.dll
+E:\fptu-cn-se\se-cn5\prn292\c#\Lab6_More\Lab6_More\obj\Debug\Lab6_More.csproj.ResolveComReference.cache
+E:\fptu-cn-se\se-cn5\prn292\c#\Lab6_More\Lab6_More\obj\Debug\Lab6_More.Ex2_Main.resources
+E:\fptu-cn-se\se-cn5\prn292\c#\Lab6_More\Lab6_More\obj\Debug\Lab6_More.Ex2_About.resources

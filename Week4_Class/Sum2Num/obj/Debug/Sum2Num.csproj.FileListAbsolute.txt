@@ -1,0 +1,10 @@
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week4_Class\Sum2Num\bin\Debug\Sum2Num.exe.config
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week4_Class\Sum2Num\bin\Debug\Sum2Num.exe
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week4_Class\Sum2Num\bin\Debug\Sum2Num.pdb
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week4_Class\Sum2Num\obj\Debug\Sum2Num.csprojAssemblyReference.cache
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week4_Class\Sum2Num\obj\Debug\Sum2Num.Sum.resources
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week4_Class\Sum2Num\obj\Debug\Sum2Num.Properties.Resources.resources
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week4_Class\Sum2Num\obj\Debug\Sum2Num.csproj.GenerateResource.cache
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week4_Class\Sum2Num\obj\Debug\Sum2Num.csproj.CoreCompileInputs.cache
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week4_Class\Sum2Num\obj\Debug\Sum2Num.exe
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Week4_Class\Sum2Num\obj\Debug\Sum2Num.pdb

@@ -1,0 +1,10 @@
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab3_More\PRN292_Lab3M_1_Calculator\bin\Debug\PRN292_Lab3M_1_Calculator.exe.config
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab3_More\PRN292_Lab3M_1_Calculator\bin\Debug\PRN292_Lab3M_1_Calculator.exe
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab3_More\PRN292_Lab3M_1_Calculator\bin\Debug\PRN292_Lab3M_1_Calculator.pdb
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab3_More\PRN292_Lab3M_1_Calculator\obj\Debug\PRN292_Lab3M_1_Calculator.Calculator.resources
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab3_More\PRN292_Lab3M_1_Calculator\obj\Debug\PRN292_Lab3M_1_Calculator.Properties.Resources.resources
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab3_More\PRN292_Lab3M_1_Calculator\obj\Debug\PRN292_Lab3M_1_Calculator.csproj.GenerateResource.cache
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab3_More\PRN292_Lab3M_1_Calculator\obj\Debug\PRN292_Lab3M_1_Calculator.csproj.CoreCompileInputs.cache
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab3_More\PRN292_Lab3M_1_Calculator\obj\Debug\PRN292_Lab3M_1_Calculator.exe
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab3_More\PRN292_Lab3M_1_Calculator\obj\Debug\PRN292_Lab3M_1_Calculator.pdb
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab3_More\PRN292_Lab3M_1_Calculator\obj\Debug\PRN292_Lab3M_1_Calculator.csprojAssemblyReference.cache

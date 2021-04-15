@@ -1,0 +1,10 @@
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab3_More\PRN292_Lab3M_3_SecurityPanel\bin\Debug\PRN292_Lab3M_3_SecurityPanel.exe.config
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab3_More\PRN292_Lab3M_3_SecurityPanel\bin\Debug\PRN292_Lab3M_3_SecurityPanel.exe
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab3_More\PRN292_Lab3M_3_SecurityPanel\bin\Debug\PRN292_Lab3M_3_SecurityPanel.pdb
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab3_More\PRN292_Lab3M_3_SecurityPanel\obj\Debug\PRN292_Lab3M_3_SecurityPanel.SecurityPanel.resources
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab3_More\PRN292_Lab3M_3_SecurityPanel\obj\Debug\PRN292_Lab3M_3_SecurityPanel.Properties.Resources.resources
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab3_More\PRN292_Lab3M_3_SecurityPanel\obj\Debug\PRN292_Lab3M_3_SecurityPanel.csproj.GenerateResource.cache
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab3_More\PRN292_Lab3M_3_SecurityPanel\obj\Debug\PRN292_Lab3M_3_SecurityPanel.csproj.CoreCompileInputs.cache
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab3_More\PRN292_Lab3M_3_SecurityPanel\obj\Debug\PRN292_Lab3M_3_SecurityPanel.exe
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab3_More\PRN292_Lab3M_3_SecurityPanel\obj\Debug\PRN292_Lab3M_3_SecurityPanel.pdb
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\PRN292_Lab3_More\PRN292_Lab3M_3_SecurityPanel\obj\Debug\PRN292_Lab3M_3_SecurityPanel.csprojAssemblyReference.cache

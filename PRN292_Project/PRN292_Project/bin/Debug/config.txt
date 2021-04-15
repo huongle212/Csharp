@@ -1,0 +1,3 @@
+Data Source=Mit;
+Initial Catalog=PRN292_HotelDB;
+Integrated Security=true

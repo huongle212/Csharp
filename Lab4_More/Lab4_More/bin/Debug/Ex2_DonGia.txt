@@ -1,0 +1,4 @@
+1|Cạo vôi|120000|VND
+2|Tẩy trắng|700000|VND
+3|Chụp hình răng|150000|VND
+4|Trám răng|50000|VND/cái

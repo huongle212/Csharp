@@ -1,0 +1,13 @@
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Lab4_More\Lab4_More\bin\Debug\Lab4_More.exe.config
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Lab4_More\Lab4_More\bin\Debug\Lab4_More.exe
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Lab4_More\Lab4_More\bin\Debug\Lab4_More.pdb
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Lab4_More\Lab4_More\obj\Debug\Lab4_More.Properties.Resources.resources
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Lab4_More\Lab4_More\obj\Debug\Lab4_More.csproj.GenerateResource.cache
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Lab4_More\Lab4_More\obj\Debug\Lab4_More.csproj.CoreCompileInputs.cache
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Lab4_More\Lab4_More\obj\Debug\Lab4_More.exe
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Lab4_More\Lab4_More\obj\Debug\Lab4_More.pdb
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Lab4_More\Lab4_More\obj\Debug\Lab4_More.Ex1_DentalPayment.resources
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Lab4_More\Lab4_More\obj\Debug\Lab4_More.EX5_StudentManage.resources
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Lab4_More\Lab4_More\obj\Debug\Lab4_More.csprojAssemblyReference.cache
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Lab4_More\Lab4_More\obj\Debug\Lab4_More.Ex4_Thaotacso.resources
+E:\FPTU-CN-SE\SE-CN5\PRN292\C#\Lab4_More\Lab4_More\obj\Debug\Lab4_More.EX2_.resources

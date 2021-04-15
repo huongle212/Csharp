@@ -1,0 +1,4 @@
+Data Source=Mit
+Initial Catalog=Northwind
+User ID=sa
+Password=sa
